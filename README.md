@@ -1,5 +1,6 @@
 # React + Vite + Strapi
 ## Personal Blog Website
+![Untitled design](https://github.com/VenketeswarSahoo/React-Strapi-Personal-Blog/assets/125721129/56957fc8-d3b9-4c6f-996b-b22ae5cc1c54)
 
 
 This is my personal blog website built using React and Strapi CMS. It showcases my articles, projects, and personal thoughts.
